@@ -4,7 +4,7 @@ def main():
     print(f"Hello, {name}! Welcome to this Python program.")
 
 def thisIsANewMethod();
-    i = 10
+   	print("This is a new method");
 
 if __name__ == "__main__":
     main()
