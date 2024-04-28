@@ -7,3 +7,5 @@ def thisIsANewMethod();
 
 if __name__ == "__main__":
     main()
+    
+    // Output: Hello, User! Welcome to this Python program.
