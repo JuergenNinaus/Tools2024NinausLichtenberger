@@ -6,6 +6,8 @@ def main():
 def thisIsANewMethod();
    	print("Hello World! ");
    	
+   	def thisIsANotherMethod();
+   	
 
 if __name__ == "__main__":
     main()
