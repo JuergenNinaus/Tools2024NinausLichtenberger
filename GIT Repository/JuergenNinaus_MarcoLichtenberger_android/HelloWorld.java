@@ -5,8 +5,15 @@ def main():
     print("More Code")
 
 def thisIsANewMethod();
+<<<<<<< HEAD
    	print("This is a new method");
     print("Hi")
+=======
+   	print("Hello World! ");
+   	
+   	def thisIsANotherMethod();
+   	
+>>>>>>> bugfix
 
 if __name__ == "__main__":
     main()
